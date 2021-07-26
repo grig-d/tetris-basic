@@ -1,0 +1,25 @@
+.grid {
+  width: 200px;
+  height: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: plum;
+  
+}
+
+.grid div {
+  width: 18px;
+  height: 18px;
+  border: 1px solid violet;
+}
+
+.panel {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.tetromino {
+  background-color: teal;
+}
